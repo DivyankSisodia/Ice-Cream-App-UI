@@ -1,0 +1,116 @@
+{
+    "ice_creams": [
+        {
+            "flavor": "Chocolate",
+            "description": "Creamy chocolate ice cream with chocolate chunks and fudge swirls.",
+            "price": 3.99,
+            "calories": 250,
+            "ingredients": [
+                {
+                    "name": "Milk",
+                    "quantity": "1 cup"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "1/2 cup"
+                },
+                {
+                    "name": "Chocolate Chunks",
+                    "quantity": "1/2 cup"
+                },
+                {
+                    "name": "Fudge Swirls",
+                    "quantity": "1/4 cup"
+                }
+            ],
+            "toppings": [
+                "Whipped Cream",
+                "Chocolate Syrup",
+                "Sprinkles"
+            ],
+            "image_url": "https://example.com/images/chocolate_ice_cream.jpg"
+        },
+        {
+            "flavor": "Vanilla",
+            "description": "Smooth and classic vanilla ice cream made with real Madagascar vanilla beans.",
+            "price": 3.49,
+            "calories": 200,
+            "ingredients": [
+                {
+                    "name": "Milk",
+                    "quantity": "1 cup"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "1/2 cup"
+                },
+                {
+                    "name": "Vanilla Beans",
+                    "quantity": "2 pods"
+                }
+            ],
+            "toppings": [
+                "Whipped Cream",
+                "Caramel Sauce",
+                "Cherry"
+            ],
+            "image_url": "https://example.com/images/vanilla_ice_cream.jpg"
+        },
+        {
+            "flavor": "Strawberry",
+            "description": "Sweet and refreshing strawberry ice cream with chunks of fresh strawberries.",
+            "price": 4.29,
+            "calories": 220,
+            "ingredients": [
+                {
+                    "name": "Milk",
+                    "quantity": "1 cup"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "1/2 cup"
+                },
+                {
+                    "name": "Strawberries",
+                    "quantity": "1 cup, chopped"
+                }
+            ],
+            "toppings": [
+                "Whipped Cream",
+                "Strawberry Sauce",
+                "Crushed Nuts"
+            ],
+            "image_url": "https://example.com/images/strawberry_ice_cream.jpg"
+        },
+        {
+            "flavor": "Mint Chocolate Chip",
+            "description": "Minty ice cream loaded with chocolate chips for a cool and chocolaty treat.",
+            "price": 4.99,
+            "calories": 280,
+            "ingredients": [
+                {
+                    "name": "Milk",
+                    "quantity": "1 cup"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "1/2 cup"
+                },
+                {
+                    "name": "Mint Flavor",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "Chocolate Chips",
+                    "quantity": "1/2 cup"
+                }
+            ],
+            "toppings": [
+                "Whipped Cream",
+                "Chocolate Syrup",
+                "Mint Leaves"
+            ],
+            "image_url": "https://example.com/images/mint_chocolate_chip_ice_cream.jpg"
+        }
+    ]
+}
